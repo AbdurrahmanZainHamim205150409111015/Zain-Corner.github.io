@@ -1,0 +1,16 @@
+.imagepro{
+    margin: 10px 50px;
+
+}
+
+.imagepro img{
+    transition: 1s;
+    padding: 15px;
+    width: 200px;
+
+}
+
+.imagepro img:hover{
+    filter: opacity(50%);
+    transform: scale(1.1);
+}
